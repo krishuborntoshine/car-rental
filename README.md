@@ -1,2 +1,2 @@
-# car-rental
-a portal design specially for large,premium and small car rental business
+# CarRental
+Car rental management website based on php as a backend for univ web project
